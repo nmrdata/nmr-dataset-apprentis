@@ -10,5 +10,7 @@ This text may be replaced by the description of the exercise.
 
 Links to series
 
-* [Solvents](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis/toc_10_using 13C.json)
-* [Solvents](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis/toc_10_using 1H.json)
+* [Using 1H NMR](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis/toc_10_using 1H.json)
+* [Using 13C NMR](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis/toc_20_using 13C.json)
+* [Using COSY](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis/toc_30_using COSY.json)
+* [Using HSQC HMBC](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis/toc_40_using HSQC HMBC.json)
