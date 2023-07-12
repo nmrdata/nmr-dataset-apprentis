@@ -1,4 +1,4 @@
-This series of exercises is provided by Noah Mayor and Julia Villiger, apprentices at the Ecole Polytechnique Fédérale de Lausanne (EPFL).
+This series of exercises is provided by Noah Mayor and Julia Villiger, trainee chemistry laboratory assistants, at the Ecole Polytechnique Fédérale de Lausanne (EPFL).
 
 It includes the full dataset (proton, carbon (coupled and decoupled), COSY, HSQC, and HMBC) of common solvents.
 
