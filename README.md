@@ -1,6 +1,6 @@
 This series of exercises is provided by Noah Mayor and Julia Villiger, trainee chemistry laboratory assistants, at the Ecole Polytechnique Fédérale de Lausanne (EPFL).
 
-For each sample the proton (1H) spectrum is provided.
+For each sample the carbon (13C) spectra are provided (coupled, decoupled or both).
 
 It is divided into 3 series in order to show students the different NMR experiments:
 
@@ -10,7 +10,7 @@ It is divided into 3 series in order to show students the different NMR experime
 
 You can either provide the link to all the series or to a specific series.
 
-This series is part of a
+This series is part of a set of exercises:
 
 - [1H](https://nmrdata.github.io/nmr-dataset-apprentis-1h/): Only proton NMR is provided
 - [13C](https://nmrdata.github.io/nmr-dataset-apprentis-13c/): 13C (could be coupled and/or decoupled) spectra are provided
