@@ -27,4 +27,3 @@ Links to series
 * [solvent](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-13c/toc_10_solvent.json)
 * [simple](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-13c/toc_20_simple.json)
 * [medium](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-13c/toc_30_medium.json)
-* [difficult](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-13c/toc_40_difficult.json)
