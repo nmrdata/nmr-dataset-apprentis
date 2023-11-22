@@ -7,16 +7,15 @@ It is divided into 3 series in order to show students the different NMR experime
 - NMR of organic solvents
 - Simple exercises
 - Medium exercises
-- Difficult exercises
 
 You can either provide the link to all the series or to a specific series.
 
 This series is part of a
 
-- 1H : Only proton NMR is provided
-- 13C : 13C (could be coupled of decoupled) spectra are provided
-- COSY : Only COSY spectra are provided
-- HSQC / HMBC : Both spectra are provided
-- Full : We provide all the spectra available
+- [1H](https://nmrdata.github.io/nmr-dataset-apprentis-1h/): Only proton NMR is provided
+- [13C](https://nmrdata.github.io/nmr-dataset-apprentis-13c/): 13C (could be coupled and/or decoupled) spectra are provided
+- [COSY](https://nmrdata.github.io/nmr-dataset-apprentis-cosy/): Only COSY spectra are provided
+- [HSQC / HMBC](https://nmrdata.github.io/nmr-dataset-apprentis-hmbc/): Both HSQC / HMBC spectra are provided
+- [Full](https://nmrdata.github.io/nmr-dataset-apprentis-full/): All the spectra available are provided
 
 <-- LINKS -->
